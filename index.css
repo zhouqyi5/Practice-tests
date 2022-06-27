@@ -1,0 +1,8 @@
+.container {
+  margin: 0 auto;
+  width: 300px;
+  height: 300px;
+  font-size: 30px;
+  background-color: aqua;
+  text-align: center;
+}
